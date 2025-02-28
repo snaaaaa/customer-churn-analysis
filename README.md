@@ -66,6 +66,11 @@
 
 ## 📂 프로젝트 파일 구성
 
+📁 customer-churn-analysis  
+ ├── 📄 README.md  # 프로젝트 개요 및 설명  
+ ├── 📄 customer_churn.csv  # 고객 이탈 데이터셋  
+ ├── 📄 customer_churn_analysis.ipynb  # Jupyter Notebook 분석 코드  
+ └── 📁 images/  # 시각화 그래프 이미지  
 
 ---
 
